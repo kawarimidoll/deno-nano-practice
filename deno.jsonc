@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "jsxFactory": "h",
-    "jsxImportSource": "https://deno.land/x/nano_jsx/mod.ts"
-    // "jsxImportSource": "https://deno.land/x/nano_jsx@v0.0.24/mod.ts"
+    "jsxImportSource": "https://crux.land/nanossr@0.0.2"
   }
 }
